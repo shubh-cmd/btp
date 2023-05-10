@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T14:37:36.283Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="hqAjnNvO8Y4k1KMT2zFn" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-10T14:45:16.072Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="RZAOsOkb1c-EghlNaDKj" version="21.2.9" type="github">
   <diagram id="KASS_JyszIGtR1JOQoC5" name="Page-1">
-    <mxGraphModel dx="2244" dy="2068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="1" shadow="0">
+    <mxGraphModel dx="2811" dy="2427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,7 +12,7 @@
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-78" value="User &lt;br&gt;(`Z_1,Z_2,Z_3,B_2,G,H,\beta,f_u` )" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=19;fillColor=#ffe6cc;strokeColor=#d79b00;fillStyle=auto;" parent="1" vertex="1">
           <mxGeometry x="-200" y="-150" width="380" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PkTBSmSXAkz1ON-lmvk_-97" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;labelBackgroundColor=#FFFFFF;fontSize=21;fontColor=#000000;startArrow=none;startFill=0;endArrow=baseDash;endFill=0;dashed=1;exitX=0.647;exitY=1.071;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.423;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PkTBSmSXAkz1ON-lmvk_-79" target="PkTBSmSXAkz1ON-lmvk_-96" edge="1">
+        <mxCell id="PkTBSmSXAkz1ON-lmvk_-97" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;labelBackgroundColor=#FFFFFF;fontSize=21;fontColor=#000000;startArrow=none;startFill=0;endArrow=baseDash;endFill=0;dashed=1;exitX=0.647;exitY=1.071;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.663;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PkTBSmSXAkz1ON-lmvk_-79" target="PkTBSmSXAkz1ON-lmvk_-96" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="970" y="180" />
@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-79" value="IoT Sensor Node&lt;br&gt;(`C_{SN},F,K_{SG}^1,\gamma,f_{sn}` )" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=19;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="870" y="-150" width="260" height="60" as="geometry" />
+          <mxGeometry x="1080" y="-150" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-92" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;dashed=1;labelBackgroundColor=#FFFFFF;fontSize=21;fontColor=#000000;startArrow=none;startFill=0;endArrow=baseDash;endFill=0;" parent="1" source="PkTBSmSXAkz1ON-lmvk_-80" target="PkTBSmSXAkz1ON-lmvk_-82" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -30,7 +30,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-80" value="Gateway&lt;br&gt;&amp;nbsp;(`G,H,U_{ID},C_U,\tau_1,\tau_2,U,\beta,C_{SN},F,N,\gamma,f_{sn}` )" style="rounded=1;html=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=19;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="240" y="-150" width="600" height="60" as="geometry" />
+          <mxGeometry x="350" y="-150" width="600" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-83" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=#FFFFFF;fontSize=21;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="PkTBSmSXAkz1ON-lmvk_-81" target="PkTBSmSXAkz1ON-lmvk_-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -60,7 +60,7 @@
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-82" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Identify:&amp;nbsp; &amp;nbsp;`\beta`&lt;/font&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;`\beta==\beta_{\n\ew}, then`&lt;br&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;`\beta=\beta_{\n\ew}`&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 21px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Compute: `G^\ast = h(\beta,N_1,f_u,U[f_u])`&lt;/font&gt;&lt;br&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Validate:&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 21px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;`G^\ast == G`&lt;/span&gt;&lt;br&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Generate:&amp;nbsp; `N_2`&lt;/font&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Select:&amp;nbsp; `(C_U, R_U)_{CRP-U}`&lt;br&gt;&lt;/font&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;Compute: `K_U = h(U[f_u],N_1,N_2`)&lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;Compute: `Q_1 = h(U[f_u])`&lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;Compute: `L = E(K_U,C_U || Q_1`)&lt;br&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=19;align=left;fillColor=#cce5ff;strokeColor=#36393d;spacingTop=17;" parent="1" vertex="1">
           <mxGeometry x="390" y="-60" width="460" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="PkTBSmSXAkz1ON-lmvk_-114" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;labelBackgroundColor=#FFFFFF;fontSize=21;fontColor=#000000;startArrow=none;startFill=0;endArrow=baseDash;endFill=0;dashed=1;exitX=0.532;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.633;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PkTBSmSXAkz1ON-lmvk_-85" target="PkTBSmSXAkz1ON-lmvk_-102" edge="1">
+        <mxCell id="PkTBSmSXAkz1ON-lmvk_-114" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;labelBackgroundColor=#FFFFFF;fontSize=21;fontColor=#000000;startArrow=none;startFill=0;endArrow=baseDash;endFill=0;dashed=1;exitX=0.532;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.579;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PkTBSmSXAkz1ON-lmvk_-85" target="PkTBSmSXAkz1ON-lmvk_-102" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="60" y="660" />
@@ -71,7 +71,7 @@
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-85" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Compute: `K_U = h(K_{UG}^1,N_1,N_2)`&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Compute: `D(K_U,L) -&amp;gt; {C_U, Q_1}`&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Validate: `h(K_{UG}^1) = Q_1`&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Compute:&amp;nbsp; `R_U^\prime = P_U (C_U)`&lt;br&gt;Generate:&amp;nbsp; `N_3, V`&lt;br&gt;Compute:&amp;nbsp; VG, VH&lt;br&gt;Compute:&amp;nbsp; `r_1 = VK_{UG}^1 - h(B_1^\prime)_{T96} C_U`&lt;br&gt;Compute:&amp;nbsp; `r_2 = VK_{UG}^1 - h(R_U^\prime)_{T96} C_U`&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Compute: `r_3=h(r_1,r_2,K_{UG}^1,N_3)`&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=21;align=left;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-200" y="240" width="450" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="PkTBSmSXAkz1ON-lmvk_-100" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;labelBackgroundColor=#FFFFFF;fontSize=21;fontColor=#000000;startArrow=none;startFill=0;endArrow=baseDash;endFill=0;dashed=1;entryX=0.441;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="PkTBSmSXAkz1ON-lmvk_-99" edge="1">
+        <mxCell id="PkTBSmSXAkz1ON-lmvk_-100" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;labelBackgroundColor=#FFFFFF;fontSize=21;fontColor=#000000;startArrow=none;startFill=0;endArrow=baseDash;endFill=0;dashed=1;entryX=0.386;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="PkTBSmSXAkz1ON-lmvk_-99" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="535" y="750" as="targetPoint" />
             <Array as="points">
@@ -82,7 +82,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-86" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;VG`U[f_u]` == `r_1`G + `C_U(\tau_1)`&lt;/span&gt;&lt;br&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;VG`U[f_u]` == (V`U[f_u]` - Z`C_U`)G + `C_U`(ZG)&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt;     &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;VH`U[f_u]` == `r_2`H + `C_U(\tau_2)`&lt;br&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt;    &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;VH`U[f_u]` == (V`U[f_u]` - W`C_U`)H + `C_U`(WH)&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;`r_3` == h(`r_1,r_2,U[f_u],N_3`)&lt;br&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Generate:&amp;nbsp; `N_4`&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Select:&amp;nbsp; `(C_{SN}, R_{SN})_{CRP-SN}`&lt;br&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Compute: `K_S = h(N[f_{sn}],N_4)`&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Compute: `Q_2 = h(N[f_{sn}])`&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Compute: `T = E(K_S,C_{SN} || Q_2)`&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;br&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=21;align=left;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;spacingBottom=-19;" parent="1" vertex="1">
-          <mxGeometry x="290" y="320" width="510" height="280" as="geometry" />
+          <mxGeometry x="340" y="310" width="510" height="280" as="geometry" />
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-94" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=21;fontColor=#000000;elbow=vertical;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -96,7 +96,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PkTBSmSXAkz1ON-lmvk_-104" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;labelBackgroundColor=#FFFFFF;fontSize=21;fontColor=#000000;startArrow=none;startFill=0;endArrow=baseDash;endFill=0;dashed=1;" parent="1" source="PkTBSmSXAkz1ON-lmvk_-96" edge="1">
+        <mxCell id="PkTBSmSXAkz1ON-lmvk_-104" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;labelBackgroundColor=#FFFFFF;fontSize=21;fontColor=#000000;startArrow=none;startFill=0;endArrow=baseDash;endFill=0;dashed=1;entryX=0.658;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.649;exitY=1.012;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="PkTBSmSXAkz1ON-lmvk_-96" edge="1" target="PkTBSmSXAkz1ON-lmvk_-103">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1080" y="870" />
@@ -107,21 +107,22 @@
               <mxPoint x="970" y="760" />
             </Array>
             <mxPoint x="1080" y="1140" as="targetPoint" />
+            <mxPoint x="1179" y="730" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-96" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;br&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Check: `f_{sn} != f_{sn}, K_{SG}^1 = h(K_{SG}^1), update&amp;nbsp; f_{sn}`&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Compute: `K_S = h(K_{SG}^1,N_4)`&lt;br&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Compute: `D(K_S,T) -&amp;gt; {C_{SN},Q_2}`&lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Validate: `h(K_{SG}^1) = Q_2`&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Compute:&amp;nbsp; `R_{SN}^\prime = P_{SN} (C_{SN})`&lt;br&gt;Generate:&amp;nbsp; `N_5, M`&lt;br&gt;Compute:&amp;nbsp; `MF`&lt;br&gt;Compute:&amp;nbsp; `r_4 = MK_{SG}^1 - h(R_{SN}^\prime)_{T96} C_{SN}`&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Compute: `r_5 = h(r_4,K_{SG}^1,N_5)`&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=21;align=left;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;spacingBottom=23;" parent="1" vertex="1">
-          <mxGeometry x="810" y="450" width="540" height="280" as="geometry" />
+          <mxGeometry x="890" y="460" width="540" height="280" as="geometry" />
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-98" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=21;fontColor=#000000;elbow=vertical;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="400" as="sourcePoint" />
-            <mxPoint x="1040" y="400" as="targetPoint" />
+            <mxPoint x="850" y="400" as="sourcePoint" />
+            <mxPoint x="1250" y="400" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-123" value="&amp;nbsp; `N_4, T,\gamma,f_{sn}`&amp;nbsp;&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=21;fontColor=#000000;labelBorderColor=default;labelBackgroundColor=#FFB366;" parent="PkTBSmSXAkz1ON-lmvk_-98" vertex="1" connectable="0">
           <mxGeometry x="-0.0336" y="1" relative="1" as="geometry">
-            <mxPoint x="4" as="offset" />
+            <mxPoint x="22" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-106" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;dashed=1;labelBackgroundColor=#FFFFFF;fontSize=21;fontColor=#000000;startArrow=none;startFill=0;endArrow=baseDash;endFill=0;" parent="1" source="PkTBSmSXAkz1ON-lmvk_-99" edge="1">
@@ -150,7 +151,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-99" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;MF`N[f_{sn}]` == `r_4`F+`C_{SN}(\phi)`&lt;/span&gt;&lt;br&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;MF`N[f_{sn}]` == (M`N[f_{sn}]`- X`C_{SN}`)F+`C_{SN}(XF)`&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;`r_5 == h(r_4,N[f_{sn}],N_5)`&lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Generate:&amp;nbsp; `N_6, N_7, \beta_{\n\ew}, \gamma_{\n\ew}`&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Compute: `SK_U = h(U[f_u],U_{ID},\beta)`&lt;br&gt;Compute:&amp;nbsp; `K_1 = h(SK_U,N_6, h(U[f_u]), \beta_{\n\ew})`&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Compute: `SK_{SN} = h(N[f_{sn}],\gamma)`&lt;br&gt;Compute:&amp;nbsp; `K_2 = h(SK_{SN}, N_7, h(N[f_{sn}]), \gamma_{\n\ew})`&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Compute: `P = K_U\oplus\beta_{n\e\w}\oplusU[f_u]`&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Compute: `S = K_S\oplus\gamma_{\n\ew}\oplusN[f_{sn}]`&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Update: `U[(f_u+1)mod2]=h(U[f_u])`&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Update: `N[(f_{sn}+1)mod2]=h(N(f_{sn}))`&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Update: `f_{sn} = (f_{sn}+1)mod2`&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=21;align=left;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;spacingTop=0;" parent="1" vertex="1">
-          <mxGeometry x="260" y="750" width="570" height="360" as="geometry" />
+          <mxGeometry x="290" y="750" width="570" height="360" as="geometry" />
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-101" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=21;fontColor=#000000;elbow=vertical;exitX=0.004;exitY=0.856;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="PkTBSmSXAkz1ON-lmvk_-96" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -168,23 +169,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-102" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Compute:&amp;nbsp; `SK_U^&#39;=h(K_{UG}^1,U_{ID},\beta)`&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Compute: `\beta_{\n\ew} = P\oplusK_U\oplusK_{UG}^1`&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Compute:&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;`K_1^&#39; = h(SK_U^&#39;,N_6, h(K_{UG}^1), \beta_{\n\ew})`&lt;br&gt;&lt;/span&gt;Validate:&amp;nbsp; `K_1^&#39; == K_1`&lt;br&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Update: `K_{UG}^1=h(K_{UG}^1), f_u=(f_u+1)mod2`&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Update: `Z_2 = R_D\oplusK_{UG}^1`&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Update: `Z_3 = h(B_1,K_{UG}^1,R_D)`&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Store:&amp;nbsp; `\beta_{\n\ew}`&lt;br&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=21;align=left;fillColor=#fad7ac;strokeColor=#b46504;gradientDirection=south;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-310" y="1090" width="550" height="250" as="geometry" />
+          <mxGeometry x="-280" y="1090" width="550" height="250" as="geometry" />
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-103" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Compute:&amp;nbsp; `SK_{SN}^&#39;=h(K_{SG}^1,\gamma)`&lt;/span&gt;&lt;br&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Compute: `\gamma_{\n\ew} = S\oplusK_S\oplusK_{SG}^1`&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Compute:&amp;nbsp;`K_2^&#39; = h(SK_{SN}^&#39;,N_7, h(K_{SG}^1), \gamma_{\n\ew})`&lt;br&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Validate:&amp;nbsp; `K_2^&#39; == K_2`&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Store:&amp;nbsp; `\gamma_{\n\ew}`&lt;br&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=21;align=left;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="780" y="1140" width="550" height="170" as="geometry" />
+          <mxGeometry x="880" y="1140" width="550" height="170" as="geometry" />
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-113" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=21;fontColor=#000000;elbow=vertical;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="830" y="980" as="sourcePoint" />
-            <mxPoint x="1080" y="980" as="targetPoint" />
+            <mxPoint x="860" y="980" as="sourcePoint" />
+            <mxPoint x="1240" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-126" value="&amp;nbsp; `N_7, K_2,S`&amp;nbsp;&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=21;fontColor=#000000;labelBorderColor=default;labelBackgroundColor=#FFB366;" parent="PkTBSmSXAkz1ON-lmvk_-113" vertex="1" connectable="0">
           <mxGeometry x="-0.1519" y="-1" relative="1" as="geometry">
-            <mxPoint x="23" y="-1" as="offset" />
+            <mxPoint x="54" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PkTBSmSXAkz1ON-lmvk_-117" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=21;fontColor=#000000;elbow=vertical;" parent="1" edge="1">
+        <mxCell id="PkTBSmSXAkz1ON-lmvk_-117" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=21;fontColor=#000000;elbow=vertical;exitX=-0.006;exitY=0.671;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="PkTBSmSXAkz1ON-lmvk_-99">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="990" as="sourcePoint" />
             <mxPoint x="40" y="990" as="targetPoint" />
@@ -199,28 +200,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-129" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontColor=#000000;labelBorderColor=default;labelBackgroundColor=#4FFF2B;" parent="1" vertex="1">
-          <mxGeometry x="-230" y="-30" width="40" height="40" as="geometry" />
+          <mxGeometry x="-230" y="-50" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-130" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontColor=#000000;labelBorderColor=default;labelBackgroundColor=#4FFF2B;" parent="1" vertex="1">
-          <mxGeometry x="840" y="-30" width="40" height="40" as="geometry" />
+          <mxGeometry x="840" y="-50" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-131" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontColor=#000000;labelBorderColor=default;labelBackgroundColor=#4FFF2B;" parent="1" vertex="1">
           <mxGeometry x="-230" y="250" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-132" value="4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontColor=#000000;labelBorderColor=default;labelBackgroundColor=#4FFF2B;" parent="1" vertex="1">
-          <mxGeometry x="260" y="320" width="40" height="40" as="geometry" />
+          <mxGeometry x="305" y="320" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-133" value="5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontColor=#000000;labelBorderColor=default;labelBackgroundColor=#4FFF2B;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="480" width="40" height="40" as="geometry" />
+          <mxGeometry x="1430" y="460" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-134" value="6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontColor=#000000;labelBorderColor=default;labelBackgroundColor=#4FFF2B;" parent="1" vertex="1">
-          <mxGeometry x="225" y="770" width="40" height="40" as="geometry" />
+          <mxGeometry x="250" y="770" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-135" value="7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontColor=#000000;labelBorderColor=default;labelBackgroundColor=#4FFF2B;" parent="1" vertex="1">
-          <mxGeometry x="-350" y="1090" width="40" height="40" as="geometry" />
+          <mxGeometry x="-310" y="1090" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-136" value="8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontColor=#000000;labelBorderColor=default;labelBackgroundColor=#4FFF2B;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="1140" width="40" height="40" as="geometry" />
+          <mxGeometry x="1430" y="1130" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-137" value="`M_{UG}^1`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="190" y="-50" width="130" height="40" as="geometry" />
@@ -229,31 +230,31 @@
           <mxGeometry x="175" y="110" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-139" value="`M_{UG}^3`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="265" y="205" width="130" height="40" as="geometry" />
+          <mxGeometry x="290" y="205" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-140" value="`M_{GI]^4`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="860" y="345" width="120" height="40" as="geometry" />
+          <mxGeometry x="1010" y="350" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-141" value="`M_{IG}^5`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="590" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="640" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-142" value="`M_{GU}^6`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="95" y="940" width="130" height="40" as="geometry" />
+          <mxGeometry x="120" y="940" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PkTBSmSXAkz1ON-lmvk_-143" value="`M_{GI}^7`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="900" y="920" width="120" height="40" as="geometry" />
+          <mxGeometry x="1010" y="920" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MqGZ7LyOaa_pij7iiM5n-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;" parent="1" vertex="1">
-          <mxGeometry x="360" y="340" width="20" height="130" as="geometry" />
+          <mxGeometry x="410" y="320" width="20" height="130" as="geometry" />
         </mxCell>
         <mxCell id="MqGZ7LyOaa_pij7iiM5n-2" value="Check" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="284" y="385" width="80" height="40" as="geometry" />
+          <mxGeometry x="334" y="365" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MqGZ7LyOaa_pij7iiM5n-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=20;size=0.5;" parent="1" vertex="1">
-          <mxGeometry x="330" y="760" width="20" height="85" as="geometry" />
+          <mxGeometry x="360" y="760" width="20" height="85" as="geometry" />
         </mxCell>
         <mxCell id="MqGZ7LyOaa_pij7iiM5n-4" value="Check" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="260" y="782.5" width="80" height="40" as="geometry" />
+          <mxGeometry x="290" y="782.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7hsylMHpOGJ5yZ-2AxNH-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Check&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="390" y="-22.5" width="60" height="30" as="geometry" />
