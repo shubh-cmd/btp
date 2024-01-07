@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-07T19:10:07.432Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GkrAJi2VkYZSPTA44C-3" version="21.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-07T19:22:44.743Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="CXdllD4L7QZgItoYGaP8" version="21.7.0" type="github">
   <diagram name="Page-1" id="p3xlX53l1xXB9bB7H0Pl">
     <mxGraphModel dx="1242" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -21,11 +21,6 @@
         </mxCell>
         <mxCell id="Ddu9wDRHc_xumgMtI3vM-4" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;Generate: `C_U`&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Select: `{G,H}_{EC}`&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="640" y="146" width="150" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="VIcJQ3823p3TtMgEx6s6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ddu9wDRHc_xumgMtI3vM-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="70" y="390" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Ddu9wDRHc_xumgMtI3vM-5" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;Compute: `R_U=P_U(C_U)&amp;nbsp; (3)`&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Enter: Gen(Bio) = `(B_1, B_2)`&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Compute: Z = `h(B_1)_{T96}&amp;nbsp; (4)`&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;Compute: W = `h(R_U)_{T96}&amp;nbsp; (5)`&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Compute: `\tau_1= ZG&amp;nbsp; (6)`&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Compute: `\tau_2=WH&amp;nbsp; (7)`&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="70" y="253" width="230" height="147" as="geometry" />
